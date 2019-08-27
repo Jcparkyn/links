@@ -1,4 +1,4 @@
-## My Projects
+# My Projects
 
 [Nodexr](https://jcparkyn.github.io/nodexr), a node-based Regular Expression editor for complex, nested expressions.
 
