@@ -7,12 +7,7 @@
 ## Mobius
 [Mobius](https://play.google.com/store/apps/details?id=com.Jamosium.Mobius) is a cross-platform mobile arcade game inspired by a Möbius strip.
 
-<table>
-  <tr>
-    <td><img src="/assets/screen_mobius1.png" alt="Mobius Screenshot"></td>
-    <td><img src="/assets/screen_mobius2.png" alt="Mobius Screenshot"></td>
-  </tr>
-</table>
+<img src="/links/assets/screen_mobius1.png" alt="Mobius Screenshot" style="width: 49%;"> <img src="/links/assets/screen_mobius2.png" alt="Mobius Screenshot" style="width: 49%;float: right;">
 
 ## Modellr
 [Modellr](https://jcparkyn.github.io/Modellr) is a lightweight 3D modelling program supporting all basic modelling operations ([GitHub](https://github.com/Jcparkyn/Modellr)).
